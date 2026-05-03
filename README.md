@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Navjot Singh Dadiala (Navi)
+# 👋 Hey, I'm Navjot Singh Dadiala (Navi SD)
 
 🚀 AI/ML Engineer & Backend Developer  
 I build **scalable AI systems that actually run in production**.

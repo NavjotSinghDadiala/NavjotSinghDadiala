@@ -8,7 +8,7 @@ I build **scalable AI systems that actually run in production**.
 ## ⚡ What I Do
 
 - 🧠 Design & deploy **ML-powered APIs**
-- ⚙️ Build **robust backend systems** (FastAPI, Flask, Django)
+- ⚙️ Build ** backend systems** (FastAPI, Flask, Django)
 - 🔍 Work with **NLP & Computer Vision models**
 - 🚀 Optimize for **performance, latency & real-world usage**
 - 🏗️ Turn ideas → **production-ready products**
@@ -18,7 +18,7 @@ I build **scalable AI systems that actually run in production**.
 ## 🧩 Currently Working On
 
 - 📄 Document AI pipelines (OCR + classification + API deployment)
-- 🌐 Full-stack AI systems with real-time processing
+- 🌐 Full-stack AI systems with real time processing
 - ⚡ Making ML systems faster & more efficient
 
 ---
